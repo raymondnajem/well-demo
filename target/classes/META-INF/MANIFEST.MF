@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: raymondnajem
+Build-Jdk: 21.0.3
+Implementation-Title: RESTful Service Demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.well.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/well-demo
+Created-By: Maven Integration for Eclipse
+
